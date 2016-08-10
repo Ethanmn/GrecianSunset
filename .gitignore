@@ -1,19 +1,76 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+*.rpyc
+*.rpyb
+*.rpymc
+*.pyc
+*.pyo
 
-# Other files and folders
-.settings/
+*~
+*.bak
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+saves
+tmp
+cache
+env
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+log.txt
+errors.txt
+traceback.txt
+
+styles.txt
+
+/gui/game/gui
+
+/android
+/build
+/dist
+/dists
+/renpy.app
+/jedit
+/lint.txt
+/renpy.code
+/*testing*
+/screenshot*
+/renpy.exe
+/lib
+/lib.old
+/doc
+/.pydevproject
+/.pydevproject.bak
+/.project
+/.cproject
+/.settings
+/LICENSE.txt
+/templates/english/README.html
+/the_question/README.html
+/tutorial/README.html
+/renpy/angle/*.pyx
+/renpy/angle/*.pxd
+/renpy-ppc.zip
+/module/build
+/module/gen*
+/editra
+/launcher/game/theme
+/launcher/game/script_version.rpy
+
+/dl
+renpy/vc_version.py
+.externalToolBuilders
+/rapt
+/evil
+/iaptest
+/pygame_sdl2
+/renios
+/steam_appid.txt
+/.coverage
+/id
+/interface_7
+/htmlcov
+/the_question/.android.json
+/WINDOWS.rst
+
+/*-all/
+/*-win/
+/*-mac/
+/*-linux*/
+/*-dists/
+doc-web
