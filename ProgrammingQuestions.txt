@@ -1,0 +1,7 @@
+What is the dialog UI going to look like?
+Animated CTC?
+Character side sprite?
+Colored character names?
+In-game menu? (see Orion)
+
+Set up voice, SFX, and music channels (See Orion)
