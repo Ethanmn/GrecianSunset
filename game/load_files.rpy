@@ -127,7 +127,6 @@ init:
     image mg pained = mg_i + "pained.png"
     image mg sad = mg_i + "sad.png"
     
-    
     ## BGs ##
 
     ## CGs ##
