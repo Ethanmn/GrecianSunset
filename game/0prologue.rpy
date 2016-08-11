@@ -8,7 +8,7 @@ label prologue:
     #scene bg throne with fade
     
     #[SPRITES: Shina (Neutral)– Location: Far right]
-    #show sh neutral with dissolve at right
+    show sh go neutral at right with dissolve
     n "Shina sat on her throne, mindlessly going through scroll after scroll of requests and complaints from the people of the Moon Kingdom."
     n "The people of the upper city had put in a request to raise the walls that separated them from the lower city, while the merchants in the lower city wanted more territory."
     n "The only problem with the second request was that if Shina expanded the lower city’s borders, it would push them into the upper city or the dangers of the Forest of Lilth."
@@ -35,4 +35,3 @@ label prologue:
  
     #voice
     sh "Best regards, Shina."
-

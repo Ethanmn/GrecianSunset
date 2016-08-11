@@ -11,4 +11,4 @@ define ri = Character('Riley', standard, image="ri")
 define re = Character('Rena', standard, image="re")
 define mg = Character('Mr. Grier', standard, image="mg")
 
-define n = Character(None, ctc="ctc_anim")
+define n = Character(None) #ctc="ctc_anim"
